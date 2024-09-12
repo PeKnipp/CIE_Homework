@@ -1,0 +1,3 @@
+C:/Users/peter/CLionProjects/CIE_Spring2024/pknipper/homework/hw4/cmake-build-debug/CMakeFiles/DoodleJump.dir
+C:/Users/peter/CLionProjects/CIE_Spring2024/pknipper/homework/hw4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/CLionProjects/CIE_Spring2024/pknipper/homework/hw4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
